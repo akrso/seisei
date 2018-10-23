@@ -27,6 +27,7 @@ public class HomeController {
 		logger.info("Welcome home! The client locale is {}.", locale);
 		
 		System.out.println("git test 수정");
+		System.out.println("힘들어");
 		
 		return "home";
 	}
